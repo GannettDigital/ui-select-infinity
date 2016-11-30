@@ -1,4 +1,4 @@
-# ui-select-infinity [![npm version](https://badge.fury.io/js/ui-select-infinity.svg)](http://badge.fury.io/js/ui-select-infinity)
+# ui-select-infinity (that works!) [![npm version](https://badge.fury.io/js/ui-select-infinity.svg)](http://badge.fury.io/js/ui-select-infinity)
 Extend `ui-select` with feature of infinity scrolling.
 
 ## Installing
